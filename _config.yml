@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Plenert Macdonald Services
+title: Plenert Macdonald Bookkeeping LLC
 email: <>
 author: Aidan Plenert Macdonald
 
@@ -62,8 +62,8 @@ yat:
 # Page default value
 defaults:
   home:
-    heading: "Plenert Macdonald Services"
-    subheading: "Offering bookkeeping, accounting and software engineering"
+    heading: "Plenert Macdonald Bookkeeping"
+    subheading: "Offering bookkeeping and accounting services"
     banner: "Your image url"
 
 banner:
