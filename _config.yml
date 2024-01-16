@@ -3,6 +3,12 @@ email: <>
 author: Aidan Plenert Macdonald
 copyright: "Plenert Macdonald Software Services LLC"
 
+defaults:
+  home:
+    heading: "Plenert Macdonald Bookkeeping"
+    subheading: "Offering bookkeeping and accounting services"
+    banner: "Your image url"
+
 banner:
   height: 300px
   image: "/assets/images/banners/home.jpeg"
