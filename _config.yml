@@ -66,6 +66,9 @@ defaults:
     subheading: "Offering bookkeeping, accounting and software engineering"
     banner: "Your image url"
 
+banner:
+  height: 300px
+
 # Build settings
 # highlighter: none
 markdown: kramdown
