@@ -19,7 +19,6 @@ Have questions or ready to get started? Reach out to us!
 
 **Plenert Macdonald Bookkeeping LLC**
 
-**Email:** [info@fake.com](mailto:fake@fake.com)  
-**Phone:** Not Yet
+**Email:** [bookkeeping@apmac.us](mailto:bookkeeping@apmac.us)
 
 Feel free to contact us for inquiries, consultations, or to discuss how our bookkeeping services can benefit your business. We look forward to being your trusted partners in financial success!
