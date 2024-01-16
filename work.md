@@ -3,5 +3,5 @@ layout: framework
 title: How we work
 ---
 
-We take your money and do stuff
 
+We do cool things
