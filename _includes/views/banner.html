@@ -13,6 +13,11 @@
 {%- include functions.html func='get_value' -%}
 {% assign subheading = return %}
 
+{%- include functions.html func='log' level='debug' msg='Get banner height' -%}
+{% assign name = 'banner_height' %}
+{%- include functions.html func='get_value' -%}
+{% assign banner_height = return %}
+
 {%- include functions.html func='get_banner' -%}
 
 {%- if has_banner -%}
