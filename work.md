@@ -1,22 +1,60 @@
 ---
 layout: framework
-title: How we work
+title: Services & Expertise
 ---
 
-We pride ourselves on providing comprehensive and efficient bookkeeping services tailored to meet the unique needs of your business. Our primary focus is on streamlining your financial processes and ensuring accurate and up-to-date records.
+# Data & Cloud Engineering Services
 
-# How we work
+## Core Expertise
 
-Key aspects of our ways of working and services offered include:
+**Data Engineering**
+- Data pipeline development (ETL/ELT workflows)
+- Real-time streaming architectures
+- Data lake design and implementation (medallion architecture)
+- Data quality frameworks and validation
 
-* **Exclusive QuickBooks Online Expertise**: We are committed to utilizing the power of QuickBooks Online for seamless and efficient bookkeeping. Whether you're already on the platform or looking to migrate, we handle the setup and transition process with expertise.
+**Cloud Infrastructure**
+- AWS: Redshift, S3, Glue, EMR, Lambda, Kinesis, Step Functions, Athena
+- GCP: Cloud Storage, Cloud Run, Cloud Spanner, BigQuery, Kubeflow
+- Container orchestration with Kubernetes
+- Infrastructure automation and CI/CD
 
-* **Transparent Flat Fee Structure**: Our pricing is straightforward, starting at a flat fee of $400 per month for our standard monthly reports package. This transparent structure ensures you know exactly what to expect, with no hidden costs.
+**Machine Learning Platforms**
+- MLOps pipelines and model deployment
+- Training infrastructure optimization
+- Feature engineering and data preparation
+- Model serving (REST APIs, batch inference)
 
-* **Comprehensive Monthly Reports Package**: Our standard monthly reports package covers essential services such as:
+**Platform Engineering**
+- API development (REST, GraphQL, gRPC)
+- Microservices architecture
+- Monitoring and observability
+- Performance optimization
 
-    * Weekly revenue/expense reporting
-    * Accurate and complete monthly financial statements, including Balance Sheet, Profit and Loss (P&L), and others upon request.
-    * Bank account reconciliation
-    * Payroll activity recording for businesses with employees.
-    * Managing bill payments on your behalf
+## Technology Stack
+
+**Languages:** Python, SQL, Go
+
+**Data Tools:** Palantir Foundry, DBT, PySpark, Polars, Pandas, NumPy, Scikit-learn, TensorFlow, MXNet
+
+**Infrastructure:** Kubernetes, Docker, AWS, GCP
+
+## Industry Experience
+
+- eCommerce & Retail
+- Financial Services
+- Agriculture & Commerce
+- Sustainable Mobility
+- Technology & Security
+
+## Select Projects
+
+**Product Data Ingestion** - Built scalable data pipelines in Palantir Foundry for eCommerce client, implementing quality checks with PySpark/Polars transforms
+
+**Financial Data Platform** - Architected data lake using GCP Cloud Storage, deployed API with Cloud Run and Spanner, maintained ML workflows with Kubeflow
+
+**CRM/ERP Integration** - Data modeling for corporate systems using DBT, Golang migrate, medallion architecture patterns
+
+**IoT Analytics Platform** - Optimized big data pipelines on AWS (Redshift, S3, Kinesis), built IoT monitoring for physical infrastructure
+
+Contact: [software@apmac.us](mailto:software@apmac.us)

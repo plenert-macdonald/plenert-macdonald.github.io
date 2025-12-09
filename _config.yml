@@ -1,17 +1,17 @@
-title: Plenert Macdonald Bookkeeping LLC
-email: <>
+title: Plenert Macdonald Software Services
+email: software@apmac.us
 author: Aidan Plenert Macdonald
 copyright: "Plenert Macdonald Software Services LLC"
 
 defaults:
   home:
-    heading: "Plenert Macdonald Bookkeeping"
-    subheading: "Offering bookkeeping and accounting services"
+    heading: "Plenert Macdonald Software Services"
+    subheading: "Data & Cloud Engineering Experts"
     banner: "Your image url"
 
 banner:
-  height: 300px
-  image: "/assets/images/banners/home.jpeg"
+  height: 0px
+  image: ""
 
 markdown: kramdown
 kramdown:

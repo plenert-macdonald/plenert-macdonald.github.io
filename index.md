@@ -1,24 +1,52 @@
 ---
 layout: framework
-title: Contact us
+title: Home
 ---
 
-### About Us
+# Plenert Macdonald Software Services
 
-Welcome to **Plenert Macdonald Bookkeeping LLC** – your dedicated partners in financial success! Founded and run by two brothers, Aidan and Tyler, our company is driven by a passion for providing top-notch bookkeeping services to businesses of all sizes.
+## Data & Cloud Engineering
 
-**Aidan and Tyler Macdonald:**  
-As co-founders, Aidan and Tyler bring a wealth of experience and expertise to the world of bookkeeping. With a shared commitment to excellence, they have built Plenert Macdonald Bookkeeping LLC on a foundation of trust, transparency, and a genuine desire to help businesses thrive financially.
+Senior software and data engineer with 10+ years of experience building scalable data platforms and cloud infrastructure. Specializing in AWS, GCP, data pipelines, and machine learning systems.
 
-**Our Mission:**  
-At Plenert Macdonald, our mission is to simplify your financial management. We understand the challenges businesses face, and we're dedicated to offering tailored solutions that empower you to make informed decisions, achieve financial stability, and focus on what you do best – running your business.
+### About
 
-### Contact Us
+I architect and implement enterprise-grade data solutions across diverse industries including eCommerce, financial services, agriculture, and technology. My work focuses on transforming complex data challenges into production-ready systems that scale.
 
-Have questions or ready to get started? Reach out to us!
+### What I Do
 
-**Plenert Macdonald Bookkeeping LLC**
+- Build data pipelines and ETL/ELT workflows
+- Design cloud-native architectures (AWS, GCP)
+- Implement data lakes and warehouses
+- Deploy machine learning platforms
+- Optimize infrastructure and reduce costs
 
-**Email:** [bookkeeping@apmac.us](mailto:bookkeeping@apmac.us)
+### Experience
 
-Feel free to contact us for inquiries, consultations, or to discuss how our bookkeeping services can benefit your business. We look forward to being your trusted partners in financial success!
+Currently working with clients through Plenert Macdonald Software Services on:
+- Product data ingestion pipelines (Palantir Foundry, PySpark)
+- Financial data platforms (GCP, Kubernetes)
+- CRM/ERP data modeling (DBT, SQL)
+- ML training pipelines and IoT analytics
+
+Previously: Principal Developer at Shell Hydrogen, Data Engineer at Amazon (InfoSec, PrimeNow), Machine Learning Engineer at Webroot and KnuEdge.
+
+### Technologies
+
+**Cloud:** AWS (Redshift, S3, Glue, EMR, Lambda, Kinesis), GCP (Cloud Storage, Cloud Run, Spanner, Kubeflow)
+
+**Data:** Palantir Foundry, DBT, PySpark, Polars, Pandas, SQL
+
+**ML:** Scikit-learn, TensorFlow, MXNet
+
+**Infrastructure:** Kubernetes, Docker, CI/CD
+
+### Education
+
+B.S. Physics (minor Computer Engineering), UC San Diego
+
+### Contact
+
+**Email:** [software@apmac.us](mailto:software@apmac.us)
+
+**GitHub:** [github.com/aodhan-domhnaill](https://github.com/aodhan-domhnaill)
