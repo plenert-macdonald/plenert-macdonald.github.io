@@ -3,8 +3,6 @@ layout: framework
 title: Home
 ---
 
-# Plenert Macdonald Software Services
-
 ## Data & Cloud Engineering
 
 Senior software and data engineer with 10+ years of experience building scalable data platforms and cloud infrastructure. Specializing in AWS, GCP, data pipelines, and machine learning systems.
