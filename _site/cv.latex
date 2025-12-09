@@ -1,0 +1,131 @@
+% LaTeX file for resume 
+% This file uses the resume document class (res.cls)
+
+\documentclass[margin]{res} 
+% the margin option causes section titles to appear to the left of body text 
+\textwidth=5.2in % increase textwidth to get smaller right margin
+%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{newcent}   % uses new century schoolbook postscript font 
+
+\begin{document} 
+ 
+\name{Aidan Macdonald\\[12pt]} % the \\[12pt] adds a blank line after name
+
+
+\address{}
+\address{ \email{software@apmac.us} \\ \url{ github.com/aodhan-domhnaill } }
+
+\begin{resume}
+\textit{Senior-level Software and Data Engineer  \\ Looking to move away from contracting and seeking long term employment}
+
+\section{Experience}
+{\bf Plenert Macdonald Group - Contracting Firm} \\
+\textit{Client in ECommerce} \hfill May 2025 to present
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item Building product data ingestion pipelines in Palantir Foundry
+\item Testing and quality checks using Pyspark/Polars transforms
+\item Optimizing data flows for commerce data audits and improving visibility
+\item Working with external partners to ingest their data and shared data mappings
+\end{itemize}
+
+\textit{Client in Financial Services} \hfill February 2025 to May 2025
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item Build and maintained data lake using Cloud Storage in GCP
+\item Deployed data access API using Cloud Run and Cloud Spanner in GCP
+\item Maintained Kubernetes workflow using Kubeflow
+\item Automating testing and compliance in CI/CD
+\end{itemize}
+
+\textit{Client in Agriculture Commerce} \hfill October 2024 to February 2025
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item Data modeling for corporate CRM and ERP data brought into a SQL workflow
+\item DBT, Golang migrate, Python modeling and ELT/ETL workflows
+\item Data layer modeling for medallion architectures
+\end{itemize}
+
+\textit{Client in Sustainable Mobility} \hfill June 2024 to October 2024
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item Data pipelines build for pipeline training
+\item Python data modeling and ELT/ETL workflows
+\item Machine learning training and inference with sklearn
+\item Data ingestion and access control using REST APIs, Thrift, GRPC
+\item Bronze layer ingestion under medallion architecture
+\end{itemize}
+
+{\bf Principal Software Product Developer } \\
+Shell Hydrogen \hfill November 2020 to January 2024
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item Optimize big data pipelines in AWS using Redshift, S3 and Kinesis
+\item Glue data catalog and ETL pipelines for data ingestion
+\item Built IOT data pipelines to monitor physical hardware on site
+\item Performed data physics analysis of IOT collected data
+\item Develop economic and physical models for key components of the businesses
+\end{itemize}
+
+{\bf Data Science and Engineering (SDE II)} \\
+Amazon (InfoSec) - SecInt \hfill October 2018 to November 2020
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item Manage kubernetes deployments of infrastructure
+\item AWS Glue jobs and metadata store for large data lake
+\item Built and maintain autoscaling SparkSQL ETL platform supporting data science
+\item Event driven ETL triggers {\tt AWS EMR} autoscaling to minimize compute costs
+\item ETL Platform has been deployed on multiple teams in my organization
+\end{itemize}
+
+Amazon (PrimeNow) - Sand Insights/Castle \hfill July 2017 to October 2018
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item Business reports platform built using {\tt AWS Stepfunctions}, {\tt Lambda} and {\tt Athena}
+\item Modelled sales forecasting with {\tt Scikit-learn} and {\tt MxNet}
+\item Automated data cleansing using {\tt AWS Stepfunctions} for Amazon PrimeNow catalog
+\item Built statistical models in {\tt AWS Lambda} using {\tt python} for automatically correcting product attributes
+\item Automatic ingestion into {\tt S3} of product data improving data quality metrics
+\end{itemize}
+
+{\bf Data Scientist and Engineer} \\
+KnuEdge Inc. \hfill March 2016 to June 2017
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item Built {\tt Tensorflow} powered webservice on Docker platform for running Machine Learning jobs
+\item Ported {\tt TensorFlow} to custom in-house HPC hardware
+\item Leveraged {\tt RabbitMQ} to build job queue connecting webservices to custom hardware
+\item Developed Heterogeneous Neural Networks for predicting chaotic phenomena
+\end{itemize}
+
+{\bf Web Security Machine Learning Engineer} \\
+Webroot  \hfill April 2014 to March 2016
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item Analyzed data using {\tt Numpy}, {\tt Scikit-learn} and {\tt Matplotlib} to malware and phishing detection
+\item Leveraged {\tt MPI} and {\tt OpenMP} with {\tt BLAS} to scale compute in HPC environments
+\item Profiled and experimentally demonstrated success of algorithm
+\end{itemize}
+
+\section{Other Work Experience}
+\begin{tabular}{ll p{2.5in}}
+\textbf{UCSD HEP Experiment} & (Aug 2015 - Dec 2016) & Data Science \\
+\textbf{SPAWAR} & (Apr 2015 - Aug 2015) & Machine Learning Research \\
+\textbf{ActivCirk} & (Dec 2013 - Apr 2015) & Test Equipment Programming \\
+\end{tabular}
+
+\section{Open Source Contributions}
+\begin{itemize} \itemsep -2pt  % reduce space between items
+\item {\tt tensorflow}
+\item {\tt mxnet}
+\item {\tt mxnet-the-straight-dope}
+\end{itemize}
+
+\section{Education} 
+B.S. Physics (minor Computer Engineering), University of California San Diego
+
+\section{Publications and Presentations}
+Wuerthwein, F and Macdonald, A (2016). ``CMS Software Performance Measurements ’in the wild’''. To
+appear in the Proceedings of CHEP 2016.
+\\ \\
+Wuerthwein, F and Macdonald, A (2016). ``Statistical Measurements of Condor System''. Proceedings of
+the UCSD Undergraduate Research Conference, 2016. San Diego, CA.
+\\ \\
+Macdonald, A. and Ellen, J (2015). ``Multi-level Resolution Features for Classification of Transportation
+Trajectories''. Proceedings of the 14th International Conference on Machine Learning and Applications,
+2015. Miami, FL: IEEE PRES.
+
+
+\end{resume} 
+\end{document} 
